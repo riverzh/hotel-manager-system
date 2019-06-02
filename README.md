@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+使用vue.js node.js mysql 实现酒店管理系统
+
 ## Build Setup
 
 ``` bash
